@@ -7,7 +7,8 @@ const Home = () => {
         <h2 className="text-primary">فرانت چپتر</h2>
         <h4 className="text-secondary">به زودی سایتمون راه می‌افته</h4>
         <h5 className="text-info">
-          <a href="https://t.me/roxaleh">T.me/Roxaleh</a>
+          <a href="https://t.me/frontChapter">T.me/FrontChapter</a>
+          <a href="https://instagram.com/frontChapter">instagram.com/FrontChapter</a>
         </h5>
       </div>
     </div>
